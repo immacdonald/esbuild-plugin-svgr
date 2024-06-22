@@ -1,9 +1,10 @@
 {
-    "name": "esbuild-plugin-svgr",
-    "description": "A plugin for esbuild that enables importing *.svg files as React components.",
+    "name": "@imacdonald/esbuild-plugin-svgr",
+    "description": "A fork of esbuild-plugin-svgr, a plugin for esbuild that enables importing *.svg files as React components.",
     "version": "2.1.0",
     "license": "MIT",
     "author": "Kazi Jawad",
+    "contributors": ["Ian MacDonald"],
     "types": "index.d.ts",
     "main": "src/index.js",
     "files": [
@@ -12,12 +13,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kazijawad/esbuild-plugin-svgr.git"
+        "url": "git+https://github.com/immacdonald/esbuild-plugin-svgr.git"
     },
     "bugs": {
-        "url": "https://github.com/kazijawad/esbuild-plugin-svgr/issues"
+        "url": "https://github.com/immacdonald/esbuild-plugin-svgr/issues"
     },
-    "homepage": "https://github.com/kazijawad/esbuild-plugin-svgr#readme",
+    "homepage": "https://github.com/immacdonald/esbuild-plugin-svgr#readme",
     "dependencies": {
         "@svgr/core": "^8.0.0",
         "@svgr/plugin-jsx": "^8.0.1"
