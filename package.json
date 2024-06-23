@@ -26,9 +26,9 @@
         "@svgr/plugin-jsx": "^8.0.1"
     },
     "devDependencies": {
-        "esbuild": "^0.20.0"
+        "esbuild": "^0.21.0"
     },
     "peerDependencies": {
-        "esbuild": "^0.20.0"
+        "esbuild": "^0.21.0"
     }
 }
